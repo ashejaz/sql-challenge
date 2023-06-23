@@ -49,7 +49,7 @@ CREATE TABLE dept_emp (
 -- Checking table creation & import
 SELECT * FROM titles;
 SELECT * FROM departments;
-SELECT * FROM employees LIMIT 20;
-SELECT * FROM salaries LIMIT 20;
-SELECT * FROM dept_manager;
-SELECT * FROM dept_emp LIMIT 20;
+SELECT * FROM employees LIMIT 10;
+SELECT * FROM salaries LIMIT 10;
+SELECT * FROM dept_manager LIMIT 10;
+SELECT * FROM dept_emp LIMIT 10;
